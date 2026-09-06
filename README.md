@@ -1,7 +1,7 @@
 # Glo Balancer (name still tentative)
 
 A Toggleable Layer 4 & Layer 7 Load Balancer that can help ensure network distribution across your servers
-STILL A WORK IN PROGRESS, refer to the (Linked Github Project)[https://github.com/users/Samuriot/projects/4?system_template=kanban]
+STILL A WORK IN PROGRESS, refer to the [Linked Github Project](https://github.com/users/Samuriot/projects/4?system_template=kanban)
 
 ## Background
 - This is a passion project to understand Cloud Infrastructure on a lower level
